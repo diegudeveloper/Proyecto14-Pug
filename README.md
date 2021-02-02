@@ -16,7 +16,7 @@ Solo debes ingresar al siguiente link para ver el Proyecto: [Proyecto 14]() y as
 <details>
     <summary>🖥 Desktop version</summary>
 
-![]()
+![](https://github.com/diegudeveloper/Proyecto14-Pug/blob/master/images/pug.png)
 
 </details>
 
